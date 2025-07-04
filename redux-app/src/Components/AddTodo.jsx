@@ -37,7 +37,7 @@ const AddTodo = () => {
               cursor: 'pointer',
             }}
           >
-            Add
+            Adding
           </button>
         </div>
       </form>
